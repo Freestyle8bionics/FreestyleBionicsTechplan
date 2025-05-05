@@ -1,0 +1,3 @@
+Type TXT
+Host @freestylebionicsofficial.com
+Value apple-domain=0UCdhn7BBjhdlFVz
